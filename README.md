@@ -1,6 +1,6 @@
 # Longevity Risk Modeling
 
-Code for mortality-improvement modeling and longevity-risk quantification, part of the China Longevity Risk Index (CLRI) project. Includes LSTM-GLM mortality forecasting, life-table construction, gender-split mortality improvement comparison, and longevity-bond pricing.
+Code for mortality-improvement modeling and longevity-risk quantification. Includes LSTM-GLM mortality forecasting, life-table construction, gender-split mortality improvement comparison, and longevity-bond pricing.
 
 ## Components
 - `lstm_glm/` — LC-LSTM and LSTM-GLM mortality forecasting

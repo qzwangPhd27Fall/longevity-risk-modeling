@@ -11,5 +11,3 @@ Code for mortality-improvement modeling and longevity-risk quantification, part 
 ## Data note
 Raw mortality and insurance-population data are proprietary and not included.
 
-## Related CV entry
-"Quantitative Impact Assessment of the China Longevity Risk Index" — China Reinsurance (Group).
